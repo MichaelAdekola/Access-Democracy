@@ -9,6 +9,8 @@ Access Democracy neatly displays information regarding how members of Federal Pa
 
 The layout of the site has been designed to be easily traversable for those who have little prior knowledge of politics.
 
+![vote 1](https://github.com/MichaelAdekola/Access-Democracy/blob/develop/images/IMG_6642.jpg)
+
 ## How to run
 
 Run cmd prompt
