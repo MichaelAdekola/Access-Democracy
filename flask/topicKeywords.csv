@@ -1,0 +1,222 @@
+Keyword, MainTopics, SubTopics
+TEXT, TEXT, TEXT
+Healthcare, Healthcare, 
+Health, Healthcare, 
+Doctor, Healthcare, 
+Nurse, Healthcare|Aged Care, Nursing
+Nursing, Healthcare|Aged Care, Nursing
+Vaccine, Healthcare, 
+Virus, Healthcare, 
+COVID, Healthcare, 
+Coronavirus, Healthcare, 
+Flu, Healthcare, 
+Influenza, Healthcare, 
+Health Insurance, Healthcare, 
+Therapeutic, Healthcare, 
+Medicine, Healthcare, 
+Medical, Healthcare, 
+
+Nursing Home, Aged Care, 
+Pension, Aged Care|Disability, 
+Retire, Aged Care, 
+Retirement, Aged Care, 
+Care, Disability|Aged Care, 
+Carers, Disability|Aged Care|Healthcare, 
+Aged, Aged Care, 
+
+Environmental, Environmental, 
+Environment, Environmental, 
+Animals, Environmental, Animals
+Habitat, Environmental, Animals
+Fish, Environmental, Fishing|Animals
+Fishing, Environmental, Fishing|Animals
+Fisheries, Environmental, Fishing|Animals
+Fauna, Environmental, Animals
+Plant, Environmental, Plants
+Plants, Environmental, Plants
+Flora, Environmental, Plants
+Global Warming, Environmental, 
+Climate, Environmental|Climate, 
+Forestry, Environmental, Forestry
+Lumber, Environmental|Business, 
+Natural, Environmental, 
+Water, Environmental, 
+Drought, Environmental, 
+Fire, Environmental, 
+Bushfire, Environmental|Bushfire, 
+Bushfires, Environmental|Bushfire, 
+Bush-fire, Environmental|Bushfire, 
+Basin, Environmental, 
+Land, Environmental, 
+Carbon, Environmental|Economy, 
+Greenhouse, Environmental, 
+Marine, Environmental, Marine
+National Park, Environmental, Parks
+National Parks, Environmental, Parks
+Park, Environmental, Parks
+Green, Environmental, 
+Coal, Environmental|Economy, 
+
+Economy, Economy, 
+Economic, Economy, 
+Trade, Economy|Business, Trade
+Finance, Economy, Finance
+Financial, Economy, Finance
+Market, Economy|Business, 
+Markets, Economy, Finance
+Shares, Economy|Business, Sharemarket
+Sharemarket, Economy|Business, Sharemarket
+Share-market, Economy|Business, Sharemarket
+Recession, Economy, Finance
+Resources, Economy, Resources
+Resource, Economy, Resources
+Services, Economy|Business, Services
+Sector, Economy|Business, 
+Sectors, Economy|Business, 
+Management, Economy|Business, 
+Industry, Economy|Industrial, 
+Industries, Economy|Industrial|Business, 
+Industrial, Economy|Industrial|Business, 
+Export, Economy|International, Trade
+Exports, Economy|International, Trade
+Import, Economy|International, Trade
+Imports, Economy|International, Trade
+Loan, Economy, Finance
+Loans, Economy, Finance
+Worker, Economy|Business, Jobs
+Workers, Economy|Business, Jobs
+Work, Economy|Business, Jobs
+Job, Economy|Business, Jobs
+Jobs, Economy|Business, Jobs
+Leave, Economy|Business, Jobs
+Treasury, Economy, Finance
+Commercialisation, Economy, 
+Petroleum, Economy|Environmental, Resources
+Storage, Economy|Business, 
+Growth, Economy|Business, 
+Stagnation, Economy|Business, 
+Gas, Economy|Environmental, Resources
+Oil, Economy|Environmental, Resources
+Tax, Economy, Finance
+Taxation, Economy, Finance
+Taxes, Economy, Finance
+Income, Economy, Finance
+Social Services, Economy|Community, 
+Superannuation, Economy, Superannuation
+Consumer, Economy, 
+Consumers, Economy, 
+Savings, Economy, Finance
+Levy, Economy, Finance
+Insurance, Economy|Business, Insurance
+Companies, Economy|Business, Corporate
+Company, Economy|Business, Corporate
+Operating, Economy|Business, 
+Production, Economy|Business, 
+Product, Economy|Business, 
+Expenditure, Economy, Finance
+Corporate, Economy|Business, Corporate
+Corporation, Economy|Business, Corporate
+Corporations, Economy|Business, Corporate
+Fee, Economy, Finance
+Fees, Economy, Finance
+Fiscal, Economy, Finance
+Business, Business|Economy, 
+
+Wine, Agricultural, Food
+Fruit, Agricultural, Food
+
+Indigenous, Indigenous, 
+Representation, Indigenous, Representation
+Land Rights, Indigenous, Land Rights
+Aboriginal, Indigenous, 
+Native, Indigenous, 
+
+Diplomatic, International, 
+Diplomacy, International, 
+War, International|National Security, 
+Wars, International|National Security, 
+Peace, International|National Security|Humanitarian, 
+Geopolitical, International|National Security, 
+Offshore, International, 
+Migration, International|Humanitarian, Migration
+Migrants, International|Humanitarian, Migration
+Migrant, International|Humanitarian, Migration
+Immigration, International|Humanitarian, Migration
+Immigrants, International|Humanitarian, Migration
+Immigrant, International|Humanitarian, Migration
+Refugee, International|Humanitarian, Migration
+Multicultural, International|Community, Migration
+Customs, International|National Security, 
+Foreign, International, 
+Commonwealth, International, 
+
+Agriculture, Agriculture|Rural, 
+Agricultural, Agriculture|Rural, 
+Farm, Agriculture|Rural, 
+Farms, Agriculture|Rural, 
+Rural, Agriculture|Rural, 
+Regional, Agriculture|Rural, 
+
+Emergency, Emergency, 
+Emergencies, Emergency, 
+Disaster, Emergency, 
+Disasters, Emergency, 
+
+Science, Science, 
+Sciences, Science, 
+Research, Science, 
+
+Technology, Technology, 
+Technologies, Technology, 
+Development, Technology, 
+Telecommunications, Technology, 
+
+Border, National Security|Law, 
+Borders, National Security|Law, 
+Defence, National Security, 
+Intelligence, National Security, 
+Security, National Security, 
+Strategic, National Security, 
+
+Law, Law, 
+Laws, Law, 
+Intellectual, Law, 
+Property, Law, 
+Legal, Law, 
+Legality, Law, 
+Extremism, Law|National Security, 
+Gambling, Law|Gambling, 
+Casino, Law|Gambling, 
+Casinos, Law|Gambling, 
+Crime, Law, 
+Crimes, Law, 
+Protection, Law, 
+Safety, Law|Community, 
+
+Army, Military|National Security, 
+Navy, Military|National Security, 
+Air Force, Military|National Security, 
+Veteran, Military|Community, 
+Veterans, Military|Community, 
+Force, Military, 
+
+Education, Education, 
+Educational, Education, 
+Student, Education, 
+Students, Education, 
+University, Education, 
+Universities, Education, 
+Vocational, Education, 
+TAFE, Education, 
+Training, Education, 
+Skill, Education, 
+Skills, Education, 
+
+Community, Community, 
+Cultural, Community|Culture, 
+Culture, Community|Culture, 
+Vulnerable, Community, 
+Disadvantage, Community, 
+Disadvantaged, Community, 
+Family, Community, 
+Household, Community, 

@@ -1,0 +1,21 @@
+https://flask.palletsprojects.com/en/1.1.x/quickstart/
+
+Run cmd prompt
+
+e:    // <-- To switch drives
+
+cd E:\Software_Dev\Capstone2_0\AccDem-2020\flask
+- or wherever the flask directory is located
+
+set FLASK_APP=app1.py
+
+python -m flask run
+
+Open chrome and go to http://127.0.0.1:5000/
+
+---
+
+e:
+cd E:\Software_Dev\Capstone2_0\AccDem-2020\flask
+set FLASK_APP=app1.py
+python -m flask run
