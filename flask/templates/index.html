@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- ---------- -->
+<!-- ---------- -->
+<!-- ---------- -->
+<head>
+	<meta charset="utf-8" />
+	<meta name="description" content="Main page" />
+	<meta name="keywords" content="HTML, CSS, JavaScript" />
+	<meta name="author" content="Mike Boag" />
+	<title>Access Democracy</title>
+	
+	<!-- <link rel='icon' href='favicon.ico' type='assets/img'/ > -->
+	
+	<!-- <link rel="stylesheet" type="text/css" href="assets/css/styles.css"> -->
+	<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/styles.css') }}">
+	
+	<!-- ---------- -->
+	<!-- Basically like #include  -->
+	<!-- <script type="text/javascript" src="assets/js/js1.js"></script> -->
+	
+	<script type="text/javascript" src="{{ url_for('static', filename = 'js/debatesSection.js') }}"></script>
+	<script type="text/javascript" src="{{ url_for('static', filename = 'js/js1.js') }}"></script>
+	
+	<!-- ---------- -->
+
+</head>
+<!-- ---------- -->
+<!-- ---------- -->
+<!-- ---------- -->
+
+<!-- ---------- -->
+<!-- ---------- -->
+<!-- ---------- -->
+<body>
+
+<!-- <div class="center">
+	<div class="container">
+		<img src="phpSreps.png" alt="Logo Image">
+	</div>
+</div>
+
+<div class="center">
+	<div class="button-container">
+		<a id="navBtn1" href="#" class="selBtn" onclick="navigateToSummary()">Summary</a>
+		<a id="navBtn2" href="#" class="nonSelBtn" onclick="navigateToRecords()">Sales</a>
+		<a id="navBtn3" href="#" class="nonSelBtn" onclick="navigateToReports()">Items and Reports</a>
+	</div>
+</div> -->
+
+<div class="topBar">
+
+	<!-- <a id="topBarBtn1" href="#" class="topBarBtnClass" onclick="nothing()">Top Bar Button 1</a> -->
+	
+	<div class="center">
+	
+		<img src="favicon.ico" alt="Aus Flag Image" class="flag">
+		<h3>ACCESS DEMOCRACY</h3>
+		<img src="aus.png" alt="Aus Flag Image" class="flag">
+		
+	</div>
+</div>
+
+<div class="center">
+	<a id="mainDesc" class="mainDescClass">Loading...</a>
+</div>
+
+<!-- <div class="container"> -->
+	<!-- <div class="center"> -->
+		<!-- <h1>ACCESS DEMOCRACY</h1> -->
+	<!-- </div> -->
+<!-- </div> -->
+
+<mpSection>
+	
+	<mpInput id="mpInputID">
+	<!-- <mpInput id="mpInputID" class="mpInput_blinking"> -->
+		
+		<input disabled list="mpList" id="mpListInput" class="mpListClass" placeholder="Find your local representative..." oninput="onMPListInputChanged()">
+		<datalist id="mpList">
+			<option>Empty</option>
+		</datalist>
+		
+		<!-- <button class="mpListButton">Go</button> -->
+		<!-- <a id="mpListButton" href="#" class="nonSelBtn" onclick="navigateToSummary()">Go</a> -->
+		<a id="mpListButton" class="mpListButtonClass" onclick="onMPListButtonClicked()">Go</a>
+		
+	</mpInput>
+	
+	<mpDisplay>
+		
+		<mpDisplay_left>
+			<img src="profile.ico" alt="mp_profile_image" id="mp_profile_image_main">
+		</mpDisplay_left>
+		
+		<mpDisplay_right id="mpDisplay_right">
+			<!-- <p>Test text</p> -->
+		</mpDisplay_right>
+		
+	</mpDisplay>
+	
+</mpSection>
+
+<!-- <div class="container">
+
+	<div class="center">
+		<img src="favicon.ico" alt="Aus Flag Image" class="flag">
+	</div>
+
+	<div class="center">
+		<img src="aus.png" alt="Aus Flag Image" class="flag">
+	</div>
+
+</div> -->
+
+<div class="container">
+	<div class="center">
+		<div class="testBox1">
+			<!-- <h2>1</h2> -->
+			
+			<div class="list_box">
+				<div class="center">
+					<h2>TOPICS</h2>
+				</div>
+					
+				<div class="center">
+					<!-- <label for="searchField">Search</label> -->
+					<input type="text" id="searchField" class="searchFieldClass" name="searchFieldName" placeholder="Search for topic...">
+					<a id="searchFieldButton" class="mpListButtonClass" onclick="onSearchFieldButtonClicked()">Go</a>
+					
+					
+					
+				</div>
+				<div id="mainListBox">
+				</div>
+			</div>
+			
+			<div class="main_box" id="main_box_id">
+<!-- 			<table id="main_box_table"></table>
+				</div> -->
+				
+				<!-- <div class="inner_box1" id="inner_box1_id"> -->
+					
+					<div class="center">
+						<h2>Select a topic to begin...</h2>
+					</div>
+					
+				<!-- </div> -->
+				
+				<!-- <div class="inner_box2" id="inner_box2_id"> -->
+				<!-- </div> -->
+				
+				<!-- <a id="viewChangeBtn_1" class="viewChangeBtn" onclick="onViewChangeButton_1_Clicked()">Scroll View</a> -->
+				<!-- <a id="viewChangeBtn_2" class="viewChangeBtn" onclick="onViewChangeButton_2_Clicked()">Grid View</a> -->
+				
+				<!-- <div class="inner_box3" id="inner_box3_id"> -->
+				<!-- </div> -->
+				
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+<!-- ---------- -->
+
+<div class="topBar">
+</div>
+
+<div class="btmBarA">
+</div>
+
+<div class="btmBarB">
+</div>
+
+<!-- ---------- -->
+<!-- ---------- -->
+
+<!-- <script> -->
+<!-- setMainDescContent(); -->
+<!-- populateMPList(); -->
+<!-- initialiseTopicList(); -->
+<!-- importMPImages(); -->
+<!-- </script> -->
+
+<!-- ---------- -->
+
+</body>
+<!-- ---------- -->
+<!-- ---------- -->
+<!-- ---------- -->
+
+</html>

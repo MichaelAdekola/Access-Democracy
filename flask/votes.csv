@@ -1,0 +1,13 @@
+ID, Name, TopicID, Description, bPassed
+INT,TEXT, INT,TEXT,INT
+0,Vote 1, 1,_Insert desc_,1
+1,Vote 2, 5,_Insert desc_,0
+2,Vote 3, 5,_Insert desc_,0
+3,Vote 4, 5,_Insert desc_,0
+4,Vote 5, 5,_Insert desc_,0
+5,Vote 6, 5,_Insert desc_,1
+6,Vote 7, 5,_Insert desc_,1
+7,Vote 8, 5,_Insert desc_,0
+8,Vote 9, 5,_Insert desc_,0
+9,Vote 10, 5,_Insert desc_,0
+10,Vote 11, 5,_Insert desc_,1
